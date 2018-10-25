@@ -1,0 +1,1 @@
+janusgraph-cassandra-es.properties
