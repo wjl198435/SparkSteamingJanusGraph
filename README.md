@@ -27,10 +27,10 @@
      2.:plugin use tinkerpop.spark
      
  ## 6 gremlin> :set max-iteration 10  
-     graph = GraphFactory.open(writeGraph)
- ## 7.gremlin> g=graph.traversal()
+ ## 7 gremlin>  graph = GraphFactory.open(writeGraph)
+ ## 9.gremlin> g=graph.traversal()
  
- ## 8. gremlin> g.V().valueMap()
+ ## 10. gremlin> g.V().valueMap()
  
  ### 
  
