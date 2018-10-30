@@ -32,7 +32,7 @@
  
  ## 10. gremlin> g.V().valueMap()
  
- ### 
+ ## 11 hadoop-grateful-gryo.properties
  
  '# hadoop-grateful-gryo.properties
  
@@ -61,7 +61,7 @@
  giraph.numComputeThreads=4
  giraph.maxMessagesInMemory=100000
  
- //# tinkergraph-gryo.properties
+ ## 12 tinkergraph-gryo.properties
  
  gremlin.graph=org.apache.tinkerpop.gremlin.tinkergraph.structure.TinkerGraph
  gremlin.tinkergraph.graphFormat=gryo
