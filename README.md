@@ -14,7 +14,7 @@
  
  
  
- #BulkLoad example
+ # BulkLoad example
  
  ## 1. gremlin> hdfs.copyFromLocal('data/grateful-dead.kryo', 'grateful-dead.kryo')
  ## 2.gremlin> readGraph = GraphFactory.open('conf/hadoop-graph/hadoop-gryo.properties')
